@@ -7,9 +7,11 @@
 | Details | Information |
 |---|---|
 | **Name** | Sanskar Ramesh Meharkar |
-| **Subject** | Subject Name |
-| **Assignment** | Assignment Title |
-| **Class/Division** | Your Class |
+| **Group Members** | Dewesh Baraptre
+                    | Meghana innani|
+| **Subject** | genrative ai  |
+| **Assignment** | Genrative Ai group Activity|
+| **BATCH** | A1 |
 | **Academic Year** | 2026–27 |
 
 ---

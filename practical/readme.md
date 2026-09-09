@@ -7,8 +7,7 @@
 | Details | Information |
 |---|---|
 | **Name** | Sanskar Ramesh Meharkar |
-| **Group Members** | Dewesh Baraptre
-                    | Meghana innani|
+| **Group Members** | Dewesh Baraptre,Meghana innani |
 | **Subject** | genrative ai  |
 | **Assignment** | Genrative Ai group Activity|
 | **BATCH** | A1 |
@@ -20,7 +19,7 @@
 
 > Click below to access the complete assignment.
 
-### 🔗 [📥 View Main Assignment](YOUR_ASSIGNMENT_LINK)
+### 🔗 [📥 View Main Assignment](https://github.com/Sanskarmeharkar/Generative-AI/blob/main/GENRATIVE_AI_GROUP_ACTIVITY.ipynb)
 
 ---
 

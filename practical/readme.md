@@ -7,7 +7,7 @@
 | Details | Information |
 |---|---|
 | **Name** | Sanskar Ramesh Meharkar |
-| **Group Members** | Dewesh Baraptre,Meghana innani |
+| **Group Members** | Dewesh Barapatre,Meghana Innani|
 | **Subject** | genrative ai  |
 | **Assignment** | Genrative Ai group Activity|
 | **BATCH** | A1 |
